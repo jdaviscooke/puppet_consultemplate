@@ -1,0 +1,14 @@
+{
+  "name": "cimpressmcp-puppet_consultemplate",
+  "version": "0.1.0",
+  "author": "cimpressmcp",
+  "summary": "A puppet module for installing and managing consul template",
+  "license": "Apache 2.0",
+  "source": "https://github.com/jdaviscooke/puppet_consultemplate",
+  "project_page": "https://github.com/jdaviscooke/puppet_consultemplate",
+  "issues_url": "https://github.com/jdaviscooke/puppet_consultemplate/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
